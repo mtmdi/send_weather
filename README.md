@@ -10,7 +10,7 @@ This script use [FarazSMS](https://farazsms.com/) API to send SMS, you so must p
  
 
 > $git clone https://github.com/ahmadmotamedi/send_weather.git
-> $ cd send_weather
+> $cd send_weather
 > $sudo pip install -r requirements.txt
 > $python main.py
 
