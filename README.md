@@ -9,10 +9,12 @@ This script use [FarazSMS](https://farazsms.com/) API to send SMS, you so must p
  Just run this code in your Terminal:
  
 
-> $git clone https://github.com/ahmadmotamedi/send_weather.git
-> $cd send_weather
-> $sudo pip install -r requirements.txt
-> $python main.py
+```bash
+git clone https://github.com/ahmadmotamedi/send_weather.git
+cd send_weather
+sudo pip install -r requirements.txt
+python main.py
+```
 
 ## Commit and Develop
 TWA is under develop and not stable. It's my pleasure to get your commit and PR.
